@@ -1,6 +1,6 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack"
 
-const Stack =  createNativeStackNavigatortackNavigator()
+const Stack =  createNativeStackNavigator()
 
 const QualityStack = () => {
     return (
